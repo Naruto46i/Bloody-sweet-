@@ -1,18 +1,28 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {}.
+    START_TXT = """<b>Bloody Sweet🍫
 
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>.
+Leo.. Leo.. Leo.....🦁
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
-    
+𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 LEO🦁 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖬𝖾 𝖠𝗌 𝖠 𝖠𝗎𝗍𝗈-𝖿𝗂𝗅𝗍𝖾𝗋 𝗂𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉
+
+𝖨𝗍𝗌 𝖤𝖺𝗌𝗒 𝖳𝗈 𝖴𝗌𝖾 𝖬𝖾; 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 🦁🦁
+
+🍫Bloody Sweet🍫
+
+🦁𝖳𝗎𝗍𝗈𝗋𝗂𝖺𝗅 𝖦𝗎𝗂𝖽𝖾: @MM_4KFLIXTK
+
+🦁𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒:    @MM_4KFLIXMT
+
+🦁Movie:@OTT_UPTATE_CHANNEL """
     HELP_TXT = """<b>Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ.</b>"""
 
     ABOUT_TXT ="""<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/Unni0240>ᴍʀ.ʙᴏᴛ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/MM_4KFLIXTK>𝙈𝙍. 𝙏𝙀𝘾𝙃 🇮🇳 ℡ ️️</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ 2: <a href=https://t.me/HORRIDduo>HORRID</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: <a href='https://www.render.com'>ʀᴇɴᴅᴇʀ </a>"""
+✯ Mʏ Sᴇʀᴠᴇʀ: <a href='https://www.heroku.com'>HEROKU</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -159,7 +169,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/sakura_movies_1> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/+iTcdMWOZ_zk3NTg1> OTT RELEASE </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """

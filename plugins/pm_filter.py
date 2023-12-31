@@ -546,6 +546,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ', url='https://t.me/FEzlk1qJ6dwwYTI1'),
             InlineKeyboardButton('𝙐𝙋𝘿𝘼𝙏𝙀𝙎', url='https://t.me/Leo_Updates_Channel'),
             ],[
+            InlineKeyboardButton('𝙈𝙊𝙑𝙄𝙀', url='https://t.me/MM_4KFLIXMT'),
+            ],[
+            InlineKeyboardButton('𝙊𝙏𝙏 𝙐𝙋𝘿𝘼𝙏𝙀 ', url='https://t.me/OTT_UPTATE_CHANNEL'),
+            InlineKeyboardButton('𝙊𝙏𝙏 𝙍𝙀𝙇𝙀𝘼𝙎𝙀 ', url='https://t.me/MM_4KFLIXTK'),
             ],[
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")

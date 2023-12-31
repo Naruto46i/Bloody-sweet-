@@ -42,16 +42,16 @@ class evamaria(Client):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(os.environ.get('API_ID', ''))
-API_HASH = os.environ.get('API_HASH', '')
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '')
+API_ID = int(os.environ.get('API_ID', '25880697'))
+API_HASH = os.environ.get('API_HASH', 'ccbeeaf507caf64c00ec327407faa7a2')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '6734192766:AAFMb092AH_DduvausBYzi44R3ICGFecoaI')
 
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/67a238112341dc2da77d9.jpg')).split()
-NOR_IMG = environ.get('NOR_IMG', "https://telegra.ph/file/67a238112341dc2da77d9.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/234690c156808d87e1a9f.jpg')).split()
+NOR_IMG = environ.get('NOR_IMG', "https://telegra.ph/file/234690c156808d87e1a9f.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/b58f576fed14cd645d2cf.jpg")
 
 # Welcome area
@@ -86,13 +86,13 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 # Others
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "10"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/amal_nath_05")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/sakura_movies_1")
+S_GROUP = environ.get('S_GROUP',"https://t.me/FEzlk1qJ6dwwYTI1")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/+iTcdMWOZ_zk3NTg1")
 FILE_FORWARD = environ.get('FILE_FORWARD',"")
 MSG_ALRT = environ.get('MSG_ALRT', '𝑪𝑯𝑬𝑪𝑲 & 𝑻𝑹𝒀 𝑨𝑳𝑳 𝑴𝒀 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', ''))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'amal_nath_05')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'FEzlk1qJ6dwwYTI1')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "False")), False)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
